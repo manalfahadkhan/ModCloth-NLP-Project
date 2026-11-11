@@ -1,1 +1,1 @@
-# ModCloth-NLP-Project.
+# ModCloth-NLP-Project
