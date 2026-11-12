@@ -1,4 +1,3 @@
-
 import pandas as pd
 from collections import Counter
 
@@ -20,7 +19,7 @@ for category in categories:
 
     words = []
 
-    for text in data["clean_text"]:
+    for text in data["clean_text"].dropna():
         words.extend(text.split())
 
     print("Total reviews:", len(data))
