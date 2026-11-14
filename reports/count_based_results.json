@@ -1,0 +1,163 @@
+{
+    "bow": {
+        "shape": [
+            75936,
+            21241
+        ],
+        "vocabulary_size": 21241,
+        "sparsity": 99.85945455483855
+    },
+    "tfidf": {
+        "shape": [
+            75936,
+            21241
+        ],
+        "vocabulary_size": 21241,
+        "sparsity": 99.85945455483855,
+        "highest_weight_words": [
+            {
+                "word": "the",
+                "weight": 0.08867134898900986
+            },
+            {
+                "word": "it",
+                "weight": 0.0882703959941864
+            },
+            {
+                "word": "and",
+                "weight": 0.06693506240844727
+            },
+            {
+                "word": "is",
+                "weight": 0.05047501251101494
+            },
+            {
+                "word": "this",
+                "weight": 0.050129350274801254
+            },
+            {
+                "word": "love",
+                "weight": 0.05002942681312561
+            },
+            {
+                "word": "to",
+                "weight": 0.04456136375665665
+            },
+            {
+                "word": "but",
+                "weight": 0.039698801934719086
+            },
+            {
+                "word": "in",
+                "weight": 0.03702589496970177
+            },
+            {
+                "word": "dress",
+                "weight": 0.03566999360918999
+            }
+        ],
+        "lowest_weight_words": [
+            {
+                "word": "gymwear",
+                "weight": 1.134088279286516e-06
+            },
+            {
+                "word": "semicropped",
+                "weight": 1.134088279286516e-06
+            },
+            {
+                "word": "limitations",
+                "weight": 1.134088279286516e-06
+            },
+            {
+                "word": "casebycase",
+                "weight": 1.134088279286516e-06
+            },
+            {
+                "word": "unclasp",
+                "weight": 1.134088279286516e-06
+            },
+            {
+                "word": "discuss",
+                "weight": 1.134088279286516e-06
+            },
+            {
+                "word": "removableit",
+                "weight": 1.205614580612746e-06
+            },
+            {
+                "word": "longerlegged",
+                "weight": 1.205614580612746e-06
+            },
+            {
+                "word": "shallower",
+                "weight": 1.205614580612746e-06
+            },
+            {
+                "word": "gripped",
+                "weight": 1.205614580612746e-06
+            }
+        ]
+    },
+    "ngrams": {
+        "unigram": {
+            "shape": [
+                75936,
+                11550
+            ],
+            "features": 11550,
+            "sparsity": 99.74263517420913
+        },
+        "bigram": {
+            "shape": [
+                75936,
+                100000
+            ],
+            "features": 100000,
+            "sparsity": 99.96794097661189
+        },
+        "trigram": {
+            "shape": [
+                75936,
+                100000
+            ],
+            "features": 100000,
+            "sparsity": 99.98117067003793
+        }
+    },
+    "example_review": "i liked the color the silhouette and the fabric of this dress but the ruching just looked bunchy and ruined the whole thing i was so disappointed i really waned to like this dress runs a little small i would need to size up to make it workappropriate",
+    "example_review_weights": [
+        {
+            "word": "waned",
+            "weight": 0.3747923672199249
+        },
+        {
+            "word": "workappropriate",
+            "weight": 0.2815038859844208
+        },
+        {
+            "word": "bunchy",
+            "weight": 0.2815038859844208
+        },
+        {
+            "word": "ruined",
+            "weight": 0.28081008791923523
+        },
+        {
+            "word": "ruching",
+            "weight": 0.2656022906303406
+        },
+        {
+            "word": "the",
+            "weight": 0.23910480737686157
+        },
+        {
+            "word": "silhouette",
+            "weight": 0.22937385737895966
+        },
+        {
+            "word": "whole",
+            "weight": 0.21950872242450714
+        }
+    ]
+}
