@@ -1,0 +1,600 @@
+{
+    "similar_words": {
+        "cbow": {
+            "dress": [
+                {
+                    "word": "coat",
+                    "similarity": 0.7285851836204529
+                },
+                {
+                    "word": "skirt",
+                    "similarity": 0.7168399095535278
+                },
+                {
+                    "word": "jacket",
+                    "similarity": 0.692078709602356
+                },
+                {
+                    "word": "blouse",
+                    "similarity": 0.6532169580459595
+                },
+                {
+                    "word": "shirt",
+                    "similarity": 0.6496973037719727
+                },
+                {
+                    "word": "jumpsuit",
+                    "similarity": 0.630876898765564
+                },
+                {
+                    "word": "cardigan",
+                    "similarity": 0.6148809790611267
+                },
+                {
+                    "word": "hoodie",
+                    "similarity": 0.609009861946106
+                }
+            ],
+            "fit": [
+                {
+                    "word": "fits",
+                    "similarity": 0.7676530480384827
+                },
+                {
+                    "word": "fitting",
+                    "similarity": 0.551013171672821
+                },
+                {
+                    "word": "worked",
+                    "similarity": 0.44583752751350403
+                },
+                {
+                    "word": "cut",
+                    "similarity": 0.44480282068252563
+                },
+                {
+                    "word": "constructed",
+                    "similarity": 0.4437130093574524
+                },
+                {
+                    "word": "hangs",
+                    "similarity": 0.4321309030056
+                },
+                {
+                    "word": "sits",
+                    "similarity": 0.41398975253105164
+                },
+                {
+                    "word": "drapes",
+                    "similarity": 0.41210341453552246
+                }
+            ],
+            "fabric": [
+                {
+                    "word": "material",
+                    "similarity": 0.970770001411438
+                },
+                {
+                    "word": "knit",
+                    "similarity": 0.7071525454521179
+                },
+                {
+                    "word": "lining",
+                    "similarity": 0.657712996006012
+                },
+                {
+                    "word": "cotton",
+                    "similarity": 0.599249541759491
+                },
+                {
+                    "word": "lace",
+                    "similarity": 0.5975914001464844
+                },
+                {
+                    "word": "materials",
+                    "similarity": 0.5916116833686829
+                },
+                {
+                    "word": "lined",
+                    "similarity": 0.5416949391365051
+                },
+                {
+                    "word": "texture",
+                    "similarity": 0.5220882892608643
+                }
+            ],
+            "comfortable": [
+                {
+                    "word": "comfy",
+                    "similarity": 0.9153850674629211
+                },
+                {
+                    "word": "cozy",
+                    "similarity": 0.7299506664276123
+                },
+                {
+                    "word": "slimming",
+                    "similarity": 0.7128657698631287
+                },
+                {
+                    "word": "flowy",
+                    "similarity": 0.6551946997642517
+                },
+                {
+                    "word": "forgiving",
+                    "similarity": 0.6532122492790222
+                },
+                {
+                    "word": "feminine",
+                    "similarity": 0.6265096068382263
+                },
+                {
+                    "word": "versatile",
+                    "similarity": 0.6233285665512085
+                },
+                {
+                    "word": "lightweight",
+                    "similarity": 0.6231555938720703
+                }
+            ],
+            "small": [
+                {
+                    "word": "large",
+                    "similarity": 0.9606342315673828
+                },
+                {
+                    "word": "big",
+                    "similarity": 0.7943961024284363
+                },
+                {
+                    "word": "snug",
+                    "similarity": 0.7099704742431641
+                },
+                {
+                    "word": "tight",
+                    "similarity": 0.7065457701683044
+                },
+                {
+                    "word": "x",
+                    "similarity": 0.6703809499740601
+                },
+                {
+                    "word": "larger",
+                    "similarity": 0.6479353308677673
+                },
+                {
+                    "word": "smaller",
+                    "similarity": 0.6388066411018372
+                },
+                {
+                    "word": "uk",
+                    "similarity": 0.6286004781723022
+                }
+            ]
+        },
+        "skipgram": {
+            "dress": [
+                {
+                    "word": "dressed",
+                    "similarity": 0.7392638325691223
+                },
+                {
+                    "word": "dressing",
+                    "similarity": 0.7193326950073242
+                },
+                {
+                    "word": "casually",
+                    "similarity": 0.695507824420929
+                },
+                {
+                    "word": "blazer",
+                    "similarity": 0.6740167737007141
+                },
+                {
+                    "word": "accessorized",
+                    "similarity": 0.6724893450737
+                },
+                {
+                    "word": "attire",
+                    "similarity": 0.6724620461463928
+                },
+                {
+                    "word": "play",
+                    "similarity": 0.6685140132904053
+                },
+                {
+                    "word": "fancier",
+                    "similarity": 0.6674590706825256
+                }
+            ],
+            "fit": [
+                {
+                    "word": "fits",
+                    "similarity": 0.7703484296798706
+                },
+                {
+                    "word": "fitting",
+                    "similarity": 0.6606980562210083
+                },
+                {
+                    "word": "lenght",
+                    "similarity": 0.6498481631278992
+                },
+                {
+                    "word": "proportioned",
+                    "similarity": 0.6438102722167969
+                },
+                {
+                    "word": "fir",
+                    "similarity": 0.6216157674789429
+                },
+                {
+                    "word": "fit's",
+                    "similarity": 0.6197671294212341
+                },
+                {
+                    "word": "skintight",
+                    "similarity": 0.6150184273719788
+                },
+                {
+                    "word": "flowed",
+                    "similarity": 0.5959110260009766
+                }
+            ],
+            "fabric": [
+                {
+                    "word": "material",
+                    "similarity": 0.9554119110107422
+                },
+                {
+                    "word": "materiel",
+                    "similarity": 0.7124924659729004
+                },
+                {
+                    "word": "texture",
+                    "similarity": 0.7047474980354309
+                },
+                {
+                    "word": "knit",
+                    "similarity": 0.7045868039131165
+                },
+                {
+                    "word": "material's",
+                    "similarity": 0.6748515367507935
+                },
+                {
+                    "word": "lining",
+                    "similarity": 0.670681893825531
+                },
+                {
+                    "word": "superb",
+                    "similarity": 0.657752513885498
+                },
+                {
+                    "word": "poly",
+                    "similarity": 0.6577196717262268
+                }
+            ],
+            "comfortable": [
+                {
+                    "word": "comfy",
+                    "similarity": 0.9045508503913879
+                },
+                {
+                    "word": "cozy",
+                    "similarity": 0.7514911890029907
+                },
+                {
+                    "word": "flowey",
+                    "similarity": 0.7096800804138184
+                },
+                {
+                    "word": "fashionable",
+                    "similarity": 0.7052550315856934
+                },
+                {
+                    "word": "confortable",
+                    "similarity": 0.6903833746910095
+                },
+                {
+                    "word": "sassy",
+                    "similarity": 0.6865748763084412
+                },
+                {
+                    "word": "duper",
+                    "similarity": 0.6825428605079651
+                },
+                {
+                    "word": "snuggly",
+                    "similarity": 0.6789114475250244
+                }
+            ],
+            "small": [
+                {
+                    "word": "large",
+                    "similarity": 0.9185894727706909
+                },
+                {
+                    "word": "big",
+                    "similarity": 0.7485606670379639
+                },
+                {
+                    "word": "truetosize",
+                    "similarity": 0.735936164855957
+                },
+                {
+                    "word": "lg",
+                    "similarity": 0.7126789093017578
+                },
+                {
+                    "word": "xsmall",
+                    "similarity": 0.7068471908569336
+                },
+                {
+                    "word": "medium",
+                    "similarity": 0.706145167350769
+                },
+                {
+                    "word": "med",
+                    "similarity": 0.7043108344078064
+                },
+                {
+                    "word": "indeed",
+                    "similarity": 0.6972163319587708
+                }
+            ]
+        },
+        "fasttext": {
+            "dress": [
+                {
+                    "word": "dress'",
+                    "similarity": 0.9240144491195679
+                },
+                {
+                    "word": "dress's",
+                    "similarity": 0.9226409792900085
+                },
+                {
+                    "word": "sundress",
+                    "similarity": 0.9022728800773621
+                },
+                {
+                    "word": "address",
+                    "similarity": 0.8800323605537415
+                },
+                {
+                    "word": "dressup",
+                    "similarity": 0.8779303431510925
+                },
+                {
+                    "word": "dressy",
+                    "similarity": 0.85997074842453
+                },
+                {
+                    "word": "dressier",
+                    "similarity": 0.7890046238899231
+                },
+                {
+                    "word": "digress",
+                    "similarity": 0.7822725772857666
+                }
+            ],
+            "fit": [
+                {
+                    "word": "fitshop",
+                    "similarity": 0.9149941205978394
+                },
+                {
+                    "word": "fits",
+                    "similarity": 0.8485743403434753
+                },
+                {
+                    "word": "fitzgerald",
+                    "similarity": 0.7984057664871216
+                },
+                {
+                    "word": "fit's",
+                    "similarity": 0.7820183038711548
+                },
+                {
+                    "word": "benefit",
+                    "similarity": 0.7749033570289612
+                },
+                {
+                    "word": "film",
+                    "similarity": 0.7569657564163208
+                },
+                {
+                    "word": "fitandflare",
+                    "similarity": 0.7072266936302185
+                },
+                {
+                    "word": "fitted",
+                    "similarity": 0.6670577526092529
+                }
+            ],
+            "fabric": [
+                {
+                    "word": "fabric's",
+                    "similarity": 0.9899426698684692
+                },
+                {
+                    "word": "fabrics",
+                    "similarity": 0.9874577522277832
+                },
+                {
+                    "word": "material",
+                    "similarity": 0.966888427734375
+                },
+                {
+                    "word": "material's",
+                    "similarity": 0.9654823541641235
+                },
+                {
+                    "word": "materials",
+                    "similarity": 0.9410429000854492
+                },
+                {
+                    "word": "materiel",
+                    "similarity": 0.9323089718818665
+                },
+                {
+                    "word": "electric",
+                    "similarity": 0.8090569972991943
+                },
+                {
+                    "word": "fab",
+                    "similarity": 0.7808494567871094
+                }
+            ],
+            "comfortable": [
+                {
+                    "word": "comfertable",
+                    "similarity": 0.9746872782707214
+                },
+                {
+                    "word": "confortable",
+                    "similarity": 0.9482899904251099
+                },
+                {
+                    "word": "comfort",
+                    "similarity": 0.9345086216926575
+                },
+                {
+                    "word": "supercomfortable",
+                    "similarity": 0.9248234033584595
+                },
+                {
+                    "word": "comfortably",
+                    "similarity": 0.9188320636749268
+                },
+                {
+                    "word": "comfty",
+                    "similarity": 0.914537787437439
+                },
+                {
+                    "word": "comfy",
+                    "similarity": 0.9066097736358643
+                },
+                {
+                    "word": "uncomfortable",
+                    "similarity": 0.9046487212181091
+                }
+            ],
+            "small": [
+                {
+                    "word": "xsmall",
+                    "similarity": 0.9613205194473267
+                },
+                {
+                    "word": "large",
+                    "similarity": 0.9585852026939392
+                },
+                {
+                    "word": "smallish",
+                    "similarity": 0.9320581555366516
+                },
+                {
+                    "word": "xlarge",
+                    "similarity": 0.9312037825584412
+                },
+                {
+                    "word": "smalls",
+                    "similarity": 0.921392560005188
+                },
+                {
+                    "word": "smallness",
+                    "similarity": 0.918107807636261
+                },
+                {
+                    "word": "largeish",
+                    "similarity": 0.8999123573303223
+                },
+                {
+                    "word": "toosmall",
+                    "similarity": 0.8857483863830566
+                }
+            ]
+        }
+    },
+    "cosine_similarity": {
+        "related": {
+            "cbow": 0.7168398499488831,
+            "skipgram": 0.5644211769104004,
+            "fasttext": 0.6629419326782227
+        },
+        "unrelated": {
+            "cbow": 0.05094032362103462,
+            "skipgram": 0.06530223041772842,
+            "fasttext": 0.3328667879104614
+        }
+    },
+    "analogy": {
+        "cbow": [
+            {
+                "word": "coat",
+                "similarity": 0.7134150862693787
+            },
+            {
+                "word": "skirt",
+                "similarity": 0.7071807384490967
+            },
+            {
+                "word": "jacket",
+                "similarity": 0.666432797908783
+            },
+            {
+                "word": "jumpsuit",
+                "similarity": 0.6236205697059631
+            },
+            {
+                "word": "blouse",
+                "similarity": 0.6128281950950623
+            }
+        ],
+        "skipgram": [
+            {
+                "word": "dressed",
+                "similarity": 0.6957558393478394
+            },
+            {
+                "word": "casually",
+                "similarity": 0.6339024305343628
+            },
+            {
+                "word": "dressing",
+                "similarity": 0.6310129761695862
+            },
+            {
+                "word": "accessorized",
+                "similarity": 0.630424439907074
+            },
+            {
+                "word": "attire",
+                "similarity": 0.6201367378234863
+            }
+        ],
+        "fasttext": [
+            {
+                "word": "dress'",
+                "similarity": 0.8933016061782837
+            },
+            {
+                "word": "dress's",
+                "similarity": 0.8880342841148376
+            },
+            {
+                "word": "sundress",
+                "similarity": 0.8676977157592773
+            },
+            {
+                "word": "dressup",
+                "similarity": 0.8477479219436646
+            },
+            {
+                "word": "address",
+                "similarity": 0.8419255018234253
+            }
+        ]
+    }
+}

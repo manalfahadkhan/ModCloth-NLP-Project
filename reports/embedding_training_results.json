@@ -1,0 +1,7 @@
+{
+    "fasttext": {
+        "vocabulary_size": 7059,
+        "vector_size": 100
+    },
+    "documents": 75936
+}
